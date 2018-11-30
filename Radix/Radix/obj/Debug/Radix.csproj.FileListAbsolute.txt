@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Radix\Radix\bin\Debug\Radix.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Radix\Radix\bin\Debug\Radix.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Radix\Radix\bin\Debug\Radix.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Radix\Radix\obj\Debug\Radix.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Radix\Radix\obj\Debug\Radix.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\Radix\Radix\obj\Debug\Radix.pdb
